@@ -1,0 +1,3 @@
+/home/emil/coding/easywm/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/emil/coding/easywm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/emil/coding/easywm/cmake-build-debug/CMakeFiles/easywm.dir
