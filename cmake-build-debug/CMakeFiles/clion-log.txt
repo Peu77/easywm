@@ -1,4 +1,0 @@
-/home/emil/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/213.6777.58/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/emil/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/213.6777.58/bin/ninja/linux/ninja -G Ninja /home/emil/coding/easywm
--- Configuring done
--- Generating done
--- Build files have been written to: /home/emil/coding/easywm/cmake-build-debug
